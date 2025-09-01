@@ -1,0 +1,22 @@
+{
+    // Interpreter altijd je virtuele omgeving
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+    "jupyter.askForKernelRestart": false,
+    "workbench.panel.defaultLocation": "bottom",
+
+    // Explorer (folder inhoud) standaard zichtbaar links
+    "workbench.sideBar.location": "left",
+    "explorer.openEditors.visible": 5,
+
+    // Variables en Plots tonen (vergelijkbaar met Workspace rechts)
+    "jupyter.variableExplorerExclude": [
+        "_.*",     // interne Python variabelen
+        "In", "Out"
+    ],
+    "jupyter.enablePlotViewer": true,
+
+    // Optioneel: startup gedrag
+    "python.analysis.autoImportCompletions": true,
+    "python.testing.pytestEnabled": true,
+    "jupyter.interactiveWindow.textEditor.executeSelection": true
+}

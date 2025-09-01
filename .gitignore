@@ -1,10 +1,4 @@
 # Python
-__pycache__/
-*.pyc
-.venv/
-
-# VS Code
-.vscode/
 
 # Data
 data/*.csv
