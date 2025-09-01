@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# VS Code
+.vscode/
+
+# Data
+data/*.csv
+data/*.h5
+data/*.hdf5
+data/*.txt
+data/*.xlsx

@@ -1,0 +1,27 @@
+# Numeriek en wiskunde
+numpy
+scipy
+sympy
+pandas
+control
+
+# Visualisatie
+matplotlib
+seaborn
+plotly
+
+# Signal processing, simulatie & audio
+simpy
+simupy
+pywavelets
+librosa
+
+# Statistiek & machine learning
+scikit-learn
+statsmodels
+
+# Overige handige tools
+openpyxl
+tqdm
+SQLAlchemy
+pulp
